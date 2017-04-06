@@ -22,13 +22,13 @@ This course provides an introduction to programming and programmatic thinking us
 
 ### Course Outcomes
 At the successful conclusion of this course, the student should be able to:
-•	Learn programmatic thinking through the input, transform, output process.
-•	Learn to analyze programming problems and break complex problems into smaller components.
-•	Learn how to find answers using documentation, online, and software community resources.
-•	Demonstrate the creation of simple software using coding best practices.
-•	Demonstrate use of basic programming structures such as: variables, loops, and functions
-•	Demonstrate use of data types such as numbers, lists, strings, dictionaries, and tuples.
-•	Construct a program that uses all elements taught in class.
+*	Learn programmatic thinking through the input, transform, output process.
+*	Learn to analyze programming problems and break complex problems into smaller components.
+*	Learn how to find answers using documentation, online, and software community resources.
+*	Demonstrate the creation of simple software using coding best practices.
+*	Demonstrate use of basic programming structures such as: variables, loops, and functions
+*	Demonstrate use of data types such as numbers, lists, strings, dictionaries, and tuples.
+*	Construct a program that uses all elements taught in class.
 Prerequisites: CS105 or ADD approval
 
 ### Course Length
@@ -121,10 +121,10 @@ Final Project: 500
 Late work will incur a 10% (one letter grade) point deduction per week.
 
 ### Attendance and Participation
-•	Be on time for class.
-•	Be considerate of other’s work and presentations.
-•	Participate in class.
-•	ASK QUESTIONS!
+*	Be on time for class.
+	Be considerate of other’s work and presentations.
+*	Participate in class.
+*	ASK QUESTIONS!
 
 ### Additional Instructor Policies
 Asking questions when you are having trouble is vital to this class, as every unit builds upon and requires use of concepts from the previous units.
