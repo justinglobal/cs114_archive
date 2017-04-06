@@ -5,7 +5,11 @@
 
 1. Welcome to programming!
 1. [Course Syllabus](/notes/intro.md)
-1. What is programming?
+1. Link to slack channel: https://ai-cs114.slack.com/shared_invite/MTY2NDE3NDIzMzM0LTE0OTE1MDYyNjQtYzQ0YmFlYjU5OQ
+
+## Terms List
+
+1. [List of terms](/notes/terms.md)
 
 ## Terminal Use
 
