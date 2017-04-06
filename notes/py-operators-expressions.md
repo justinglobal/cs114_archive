@@ -37,7 +37,7 @@ Python gives you all of the usual math operators that work on ints and floats.
 It also gives you operators that work on strings.
 
 ```py
-'Hi, ' + 'David'  #> 'Hi, David'
+'Hi, ' + 'Justin'  #> 'Hi, Justin'
 ```
 
 As a rule-of-thumb, operators only make sense on like types.

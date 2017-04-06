@@ -1,6 +1,6 @@
 ### Terms List
 
-#### introduction
+#### Introduction
 
 programming
 
