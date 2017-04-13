@@ -13,16 +13,16 @@ We will be using [GitHub](https://github.com) as the remote for our portfolios a
 
 ## Linking an Existing Local Repo to GitHub
 
-Since we already have made your `~/codeguild` folder into a repo, we need to make a new _empty_ repo on GitHub.
+Since we already have made your `~/cs114` folder into a repo, we need to make a new _empty_ repo on GitHub.
 
-Go to the [new repo page](https://github.com/new) and create a new one named `codeguild`.
+Go to the [new repo page](https://github.com/new) and create a new one named `cs114`.
 _Uncheck_ the "Initialize this repository with a README" box.
 
 We now need to **add that remote** to our local repository.
 The conventional "main remote" name is `origin`.
 
 ```bash
-git remote add origin https://github.com/GITHUBUSERNAME/codeguild.git
+git remote add origin https://github.com/GITHUBUSERNAME/cs114.git
 ```
 
 It will probably ask you for your GitHub username and password.
