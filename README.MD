@@ -30,3 +30,24 @@
 1. [Variables](/notes/py-variables.md)
 1. [Function Calling](/notes/py-functions-calling-basic.md)
 1. [Program Flow](/notes/py-program-flow.md)
+1. [Basic Math](/notes/py-math.md)
+1. [Basic Casting](/notes/py-casting.md)
+1. [Terminal IO](/notes/py-io-terminal.md)
+1. [Comments](/notes/py-comments.md)
+1. [Basic Variable Naming](/notes/naming-variables-basic.md)
+1. [Python Style](/notes/py-style.md)
+
+
+
+## Using Git
+
+1. [Version Control](/notes/version-control.md)
+1. [Basic Git](/notes/git-basic.md)
+1. [Commit Size](/notes/git-commit-size.md)
+1. Demo: [Basic Git](/demos/git-basic.md)
+1. Individual Practice: [Basic Git](/practice/git-basic.md)
+1. [Git Remotes and GitHub](/notes/git-github.md)
+1. [Git Ignore](/notes/git-ignore.md)
+1. [Git Basic Workflow](/notes/git-workflow-basic.md)
+1. Demo: [Git Remotes](/demos/git-remotes.md)
+1. Individual Practice: [Git Remotes](/practice/git-remotes.md)
