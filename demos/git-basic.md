@@ -3,7 +3,7 @@
 ```
 ~ $ mkdir portfolio
 ~ $ cd portfolio
-~/portfolio $ atom book.txt **this probably won't work on class cpu's**
+~/portfolio $ atom book.txt **this probably won't work on class cpu's make file in atom first**
 ~/portfolio $ ls
 book.txt
 ~/portfolio $ git init
