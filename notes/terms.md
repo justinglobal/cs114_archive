@@ -23,3 +23,49 @@ IDE (interactive development environment)
 interactive shell
 
 stack overflow
+
+### Chapter 1
+
+expression
+
+value
+
+operator
+
+evaluate
+
+precedence
+
+data type
+
+integer (int)
+
+floating-point number (float)
+
+strings (str)
+
+blank string
+
+string concatenation
+
+string replication
+
+variable
+
+assignment statement
+
+assignment operator
+
+initialize
+
+overwrite
+
+file editor
+
+terminate/exit
+
+comment out
+
+call/pass
+
+argument
