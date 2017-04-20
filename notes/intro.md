@@ -192,6 +192,8 @@ Saturday Morning	Tuesday 7:45 - 9:45 pm
 
 Note: Additional homework and quizzes may be added according to the needs of the instructor.
 
+See "Homework" link for updated homework assignments: https://github.com/justinglobal/CS114_SP17/blob/master/notes/homework.md
+
 
 Week 1  
 4/6  
@@ -199,7 +201,7 @@ Course introduction. CPU basics. Programming philosophy. Final project overview.
 Python introduction.  
 Homework: Read Introduction  
 
-Week 2
+Week 2  
 4/13  
 Python introduction continued.  
 Python Basics: Integers, floats, string data types.  
@@ -208,7 +210,7 @@ Version control and Git
 Homework: Read Ch. 1  
 Ch. 1 problem set.  
 
-Week 3
+Week 3  
 4/20  
 Python Basics part 2: Operators and Expressions, Function calling.  
 Python documentation.  
