@@ -42,10 +42,7 @@
 1. [Basic Debugging](/notes/debugging-basic.md)
 1. [REPL](/notes/py-repl.md)
 1. [Basic Problem Solving](/notes/problem-solving-basic.md)
-  - Setup
-  - Input
-  - Transform
-  - Output
+    Setup - Input - Transform - Output
 1. Demo: [Volume Converter](/demos/volume-converter.md)
 1. Group Practice: [Change Return](/practice/change-return.md)
 1. Checked Practice: [Wall Painting](/practice/wall-painting.md)
