@@ -7,6 +7,7 @@
 1. [Course Syllabus](/notes/intro.md)
 1. Link to slack channel: https://ai-cs114.slack.com/shared_invite/MTY2NDE3NDIzMzM0LTE0OTE1MDYyNjQtYzQ0YmFlYjU5OQ
 1. Link to online text: https://automatetheboringstuff.com/
+1. [Homework](/notes/homework.md)
 
 ## Terms List
 
