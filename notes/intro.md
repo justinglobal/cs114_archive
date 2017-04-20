@@ -193,85 +193,85 @@ Saturday Morning	Tuesday 7:45 - 9:45 pm
 Note: Additional homework and quizzes may be added according to the needs of the instructor.
 
 
-Week 1
-4/6
-Course introduction. CPU basics. Programming philosophy. Final project overview.
-Python introduction.
-Homework: Read Introduction
+Week 1  
+4/6  
+Course introduction. CPU basics. Programming philosophy. Final project overview.  
+Python introduction.  
+Homework: Read Introduction  
 
 Week 2
-4/13
-Python introduction continued.
-Python Basics: Integers, floats, string data types.
-Variables. Command line usage.
-Version control and Git
-Homework: Read Ch. 1
-Ch. 1 problem set.
+4/13  
+Python introduction continued.  
+Python Basics: Integers, floats, string data types.  
+Variables. Command line usage.  
+Version control and Git  
+Homework: Read Ch. 1  
+Ch. 1 problem set.  
 
 Week 3
-4/20
-Python Basics part 2: Operators and Expressions, Function calling.
-Python documentation.
-Homework: Read Ch. 2
-Ch. 2 problem set.
+4/20  
+Python Basics part 2: Operators and Expressions, Function calling.  
+Python documentation.  
+Homework: Read Ch. 2  
+Ch. 2 problem set.  
 
-Week 4
-4/27
+Week 4  
+4/27  
 Flow Control: Booleans, Comparison Operators, if/else/elif, Loops
-Importing modules.
-List data type.
-Homework: Read Ch. 3
-Prepare for Quiz 1
-Ch. 3 problem set.
+Importing modules.  
+List data type.  
+Homework: Read Ch. 3  
+Prepare for Quiz 1  
+Ch. 3 problem set.  
 
-Week 5
-5/4
-Functions: Interfaces and scope. Main function. Function naming. Docstrings. Functions as structure.
-Final project discussion.
-Quiz 1
-Homework: Read Ch. 4
-Ch. 4 problem set.
+Week 5  
+5/4  
+Functions: Interfaces and scope. Main function. Function naming.   Docstrings. Functions as structure.  
+Final project discussion.  
+Quiz 1  
+Homework: Read Ch. 4  
+Ch. 4 problem set.  
 
-Week 6
-5/11
-Lists: Getting values. List comprehensions. Slices and other operations on lists.
-List methods.
-Project proposal due
-Homework: Read Ch. 5
-Ch. 5 problem set.
+Week 6  
+5/11  
+Lists: Getting values. List comprehensions. Slices and other operations on lists.  
+List methods.  
+Project proposal due  
+Homework: Read Ch. 5  
+Ch. 5 problem set.  
 
-Week 7
-5/18
+Week 7  
+5/18  
 Dictionaries and Structuring Data: Data type review. Dictionaries, lists.
-Dictionary methods.
-Homework: Read Ch. 6
-Ch. 6 problem set.
+Dictionary methods.  
+Homework: Read Ch. 6  
+Ch. 6 problem set.  
 
-Week 8
-5/25
+Week 8  
+5/25  
 String manipulation: Working with string data. Indexing and slicing.
-String methods.
-Homework: Final project
-Prepare for quiz
+String methods.  
+Homework: Final project  
+Prepare for quiz  
 
-Week 9
-6/1
+Week 9  
+6/1  
 Automation topics: Reading and writing files. Making a complete program.
-Working with files and graphics.
-Project workshop.
-Quiz 2
+Working with files and graphics.  
+Project workshop.  
+Quiz 2  
 
-Homework: Final project
+Homework: Final project  
 
-Week 10
-6/8
-Advanced topics: Graphics, web scraping, software development.
-Project workshop.
-Homework: Final project
+Week 10  
+6/8  
+Advanced topics: Graphics, web scraping, software development.  
+Project workshop.  
+Homework: Final project  
 
-Week 11
-6/12
-Final Project Presentations (Monday 2:45-4:45)
+Week 11  
+6/12  
+Final Project Presentations (Monday 2:45-4:45)  
 
 
 *This course calendar is subject to revision based on the needs of the class as determined by the instructor.
