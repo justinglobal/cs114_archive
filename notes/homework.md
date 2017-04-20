@@ -8,7 +8,8 @@
     - Ch. 1 Problem Set
     - Ch. 1 terms
 1. Week 3
-    - tbd
+    - Finish all assignments not completed!
+    - Try installing python on your home computer
 1. Week 4
 1. Week 5
 1. Week 6
