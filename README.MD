@@ -12,6 +12,7 @@
 ## Terms List
 
 1. [List of terms](/notes/terms.md)
+<!-- 1. [Quiz 1 study guide](/notes/quiz1.md) -->
 
 ## Terminal Use
 
@@ -47,7 +48,12 @@
 1. Group Practice: [Change Return](/practice/change-return.md)
 1. Checked Practice: [Wall Painting](/practice/wall-painting.md)
 1. Individual Practice: [Madlib](/practice/madlib.md)
-
+1. [Booleans](/notes/py-booleans.md)
+1. [Comparison Operators](/notes/py-operators-comparison.md)
+1. [Advanced Assignment](/notes/py-assignment-adv.md)
+1. [Branching and Blocks](/notes/py-branching-blocks.md)
+1. [Continuations](/notes/py-continuations.md)
+1. Demo: [Written-Out Numbers](/demos/written-numbers.md)
 
 
 ## Using Git
