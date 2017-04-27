@@ -69,3 +69,33 @@ comment out
 call/pass
 
 argument
+
+### Chapter 2
+
+flow control statements
+
+boolean
+
+comparison operator
+
+boolean operators
+
+truth table
+
+condition
+
+blocks
+
+execution (program execution)
+
+if/else/elif
+
+while loop
+
+infinite loop
+
+built-in functions
+
+standard library
+
+condition
