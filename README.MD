@@ -68,3 +68,4 @@
 1. [Git Basic Workflow](/notes/git-workflow-basic.md)
 1. Demo: [Git Remotes](/demos/git-remotes.md)
 1. Individual Practice: [Git Remotes](/practice/git-remotes.md)
+1. [Using Github for class](/notes/git-workremote.md)
