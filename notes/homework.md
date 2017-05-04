@@ -16,6 +16,9 @@
     - Ch. 2 Problem set #'s 1, 2, 4, 5, 6, 10, 11
     - Prepare for Quiz 1 - Quiz covers terms from intro, ch1 and ch2
 1. Week 5
+    - Read Chapter 3
+    - Define Ch. 3 terms
+    - Ch. 3 problem set #'s 1, 3, 7
 1. Week 6
 1. Week 7
 1. Week 8

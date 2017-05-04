@@ -99,3 +99,25 @@ built-in functions
 standard library
 
 condition
+
+### Chapter 3
+
+function
+
+deduplicating
+
+arguments
+
+parameter
+
+return value
+
+none
+
+keyword argument
+
+scope (local/global)
+
+local/global variable
+
+exception
