@@ -5,7 +5,7 @@
 
 1. Welcome to programming!
 1. [Course Syllabus](/notes/intro.md)
-1. Link to slack channel: https://ai-cs114.slack.com/shared_invite/MTY2NDE3NDIzMzM0LTE0OTE1MDYyNjQtYzQ0YmFlYjU5OQ
+1. Link to slack channel: https://ai-cs114.slack.com/
 1. Link to online text: https://automatetheboringstuff.com/
 1. [Homework](/notes/homework.md)
 
@@ -54,6 +54,12 @@
 1. [Branching and Blocks](/notes/py-branching-blocks.md)
 1. [Continuations](/notes/py-continuations.md)
 1. Demo: [Written-Out Numbers](/demos/written-numbers.md)
+1. [Boolean Operators](/notes/py-operators-boolean.md)
+1. Demo: [Bool Game](/demos/bool-game.md)
+1. [For Loops](/notes/py-for-loops.md)
+1. Group Practice: [Distance Converter](/practice/distance-converter.md)
+1. Checked Practice: [21](/practice/21.md)
+1.
 
 
 ## Using Git

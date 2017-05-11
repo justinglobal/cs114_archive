@@ -34,6 +34,18 @@ Make changes as needed, edit files, add new files and directories.
 
 Use git to 'add' and then 'commit' your changes.
 
+```bash
+git add -A
+git status
+```
+
+then
+
+```bash
+git commit -m"updates"
+git status
+```
+
 Now, when you have changes you want to appear on your Github.com profile, it is time to 'push' back to your Github profile. Use the following command:
 
 ```bash
