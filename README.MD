@@ -58,8 +58,11 @@
 1. Demo: [Bool Game](/demos/bool-game.md)
 1. [For Loops](/notes/py-for-loops.md)
 1. Group Practice: [Distance Converter](/practice/distance-converter.md)
-1. Checked Practice: [21](/practice/21.md)
-1.
+<!-- 1. Checked Practice: [21](/practice/21.md) -->
+1. [Functions](/notes/py-functions-defining.md)
+1. [Function Naming](/notes/naming-functions.md)
+1. [Function Docstrings](/notes/py-docstrings-function.md)
+1. [Functions as Structure](/notes/py-functions-structure.md)
 
 
 ## Using Git
