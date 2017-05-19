@@ -20,7 +20,9 @@
     - Define Ch. 3 terms
     - Ch. 3 problem set #'s 1, 3, 7
 1. Week 6
+    - No homework
 1. Week 7
+    - No homework
 1. Week 8
 1. Week 9
 1. Week 10
