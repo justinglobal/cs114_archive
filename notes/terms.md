@@ -121,3 +121,25 @@ scope (local/global)
 local/global variable
 
 exception
+
+### Chapter 4
+
+list
+
+list value
+
+comma delimited
+
+index
+
+slice
+
+multiple assignment trick
+
+method
+
+modified in place
+
+tuple
+
+list reference

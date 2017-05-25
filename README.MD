@@ -7,6 +7,7 @@
 1. [Course Syllabus](/notes/intro.md)
 1. Link to slack channel: https://ai-cs114.slack.com/
 1. Link to online text: https://automatetheboringstuff.com/
+1. 1. [Cheat Sheet](/notes/mementopython3-english.pdf)
 1. [Homework](/notes/homework.md)
 
 ## Terms List
@@ -58,12 +59,12 @@
 1. Demo: [Bool Game](/demos/bool-game.md)
 1. [For Loops](/notes/py-for-loops.md)
 1. Group Practice: [Distance Converter](/practice/distance-converter.md)
-<!-- 1. Checked Practice: [21](/practice/21.md) -->
 1. [Functions](/notes/py-functions-defining.md)
 1. [Function Naming](/notes/naming-functions.md)
 1. [Function Docstrings](/notes/py-docstrings-function.md)
 1. [Functions as Structure](/notes/py-functions-structure.md)
-
+1. [Main Function](/notes/py-functions-main)
+1. Demo: [Written-Out Numbers Refactor](/demos/written-numbers-func.md)
 
 ## Using Git
 
