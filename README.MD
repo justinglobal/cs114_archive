@@ -7,7 +7,7 @@
 1. [Course Syllabus](/notes/intro.md)
 1. Link to slack channel: https://ai-cs114.slack.com/
 1. Link to online text: https://automatetheboringstuff.com/
-1. 1. [Cheat Sheet](/notes/mementopython3-english.pdf)
+1. [Cheat Sheet](/notes/mementopython3-english.pdf)
 1. [Homework](/notes/homework.md)
 
 ## Terms List
