@@ -73,6 +73,7 @@
 1. [Basic String Methods](/notes/py-string-methods-basic.md)
 1. [String Formatting](/notes/py-string-format.md)
 1. Demo: [Phone Number](/demos/phone-number.md)
+1. Practice: [Magic 8 Ball redux](/practice/magic8ball-list.md)
 
 ## Using Git
 
