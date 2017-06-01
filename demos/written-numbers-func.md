@@ -8,4 +8,4 @@ Break each step into a separate function with explicit input arguments and outpu
 If you find a better way to structure your code through this process, please use it!
 No need to keep exactly the same solution steps as before.
 
-<!-- [Source](/demos/written-numbers-func.py) -->
+[Source](/demos/written-numbers-func.py)
