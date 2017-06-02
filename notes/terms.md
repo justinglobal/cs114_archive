@@ -143,3 +143,13 @@ modified in place
 tuple
 
 list reference
+
+### Chapter 5
+
+dictionary
+
+key
+
+value
+
+key/value pair

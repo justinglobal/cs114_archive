@@ -28,6 +28,9 @@
     - Define Ch. 4 terms
     - Ch. 4 Problem set #'s 1-11
 1. Week 9
+    - Read Chapter 5
+    - Define Ch. 5 terms
+    - Quiz 2 NEXT WEEK!!
 1. Week 10
 1. Week 11
 1. Week 12
