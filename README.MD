@@ -74,6 +74,19 @@
 1. [String Formatting](/notes/py-string-format.md)
 1. Demo: [Phone Number](/demos/phone-number.md)
 1. Practice: [Magic 8 Ball redux](/practice/magic8ball-list.md)
+1. [If Expressions](/notes/py-if-expressions.md)
+1. [List Comprehensions](/notes/py-lists-comprehensions.md)
+1. [Mutability](/notes/mutability.md)
+1. [Tuples](/notes/py-tuples.md)
+1. [Sequence Functions](/notes/py-sequence-funcs.md)
+1. [Dicts](/notes/py-dicts.md)
+1. [Sets](/notes/py-sets.md)
+1. [Sorting](/notes/sorting.md)
+1. [Advanced Variable Naming](/notes/naming-variables-adv.md)
+1. [Picking Data Structures](/notes/problem-solving-data-structures.md)
+1. [Basic Objects and Classes](/notes/py-classes-basic.md)
+1. [Class Init](/notes/py-classes-init.md)
+1. [Modules](/notes/py-modules-create.md)
 
 ## Using Git
 
